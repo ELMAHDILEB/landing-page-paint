@@ -106,7 +106,7 @@ let scrollRev = ScrollReveal({
   reset: true,
 })
 scrollRev.reveal("#header");
-scrollRev.reveal("#homePage, .contentHomePage, .readMore, .contactUs, .arrow");
+scrollRev.reveal("#homePage,  .readMore, .contactUs, .arrow");
 scrollRev.reveal("#about, .primary__title, .box__about, .box__content, .description__company, .image__right, .desc__left, .content__desc p");
 scrollRev.reveal("#work, .content__work, .arrowSlideWork, .leftContentCard, .card__work");
 scrollRev.reveal("#bestCompany");
